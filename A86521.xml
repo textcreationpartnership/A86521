@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some necessary and important considerations, (to be consider'd of by all sorts of people) Taken out of (that late worthy and renowned judge) Sr Matthew Hale's account of The good steward. By J.P.</title>
+            <author>Hale, Matthew, Sir, 1609-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86521</idno>
+            <idno type="STC">Wing H262</idno>
+            <idno type="STC">ESTC R230300</idno>
+            <idno type="EEBO-CITATION">99896245</idno>
+            <idno type="PROQUEST">99896245</idno>
+            <idno type="VID">153971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2392:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some necessary and important considerations, (to be consider'd of by all sorts of people) Taken out of (that late worthy and renowned judge) Sr Matthew Hale's account of The good steward. By J.P.</title>
+                  <author>Hale, Matthew, Sir, 1609-1676.</author>
+                  <author>J. P.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John How, in Ram-Head-Inn-Yard, in Fenchurch-street, and are to be freely given away,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153971:1" rendition="simple:additions"/>
+            <p>SOME <hi>Neceſſary and Important</hi> CONSIDERATIONS, (TO BE Conſider'd of by all ſorts of People) Taken out of (That late Worthy and Renowned Judge) Sr <hi>MATTHEW HALE</hi>'s ACCOUNT of <hi>The Good Steward.</hi> By <hi>J. P.</hi>
+            </p>
+            <q>
+               <p>The Righteous ſhall be had in Everlaſting Remembrance.</p>
+               <bibl>
+                  <hi>Pſal. CXII. 6.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John How,</hi> in <hi>Ram-Head-Inn-Yard,</hi> in <hi>Fenchurch-ſtreet,</hi> and are to be freely given away.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:153971:2"/>
+            <pb n="1" facs="tcp:153971:2"/>
+            <head>
+               <hi>SOME</hi> Neceſſary and Important <hi>CONSIDERATIONS,</hi> &amp;c</head>
+            <div n="conscience" type="part">
+               <head>As Touching my Conſcience.</head>
+               <p>I Have been very diligent to keep my Conſci<g ref="char:EOLhyphen"/>ence Clean, to Incourage It in the Vicegerency that THOU, [the great <hi>LORD</hi> of the World] haſt given It over my Soul and Actions. I have kept It in the Throne and greateſt Reverence and Authority in my Heart.</p>
+               <p>In Actions to be Done or Omitted, I have al<g ref="char:EOLhyphen"/>ways Adviſed with It, and taken Its Advice; I have neither Stifled, nor Forced, nor Bribed It; but gave It a free Liberty to Adviſe and Speak out, and a free Subjection of my Will, Purpoſes, and Actions to It.</p>
+               <p>If—I have at any time done Amiſs, I have not taken Her up ſhort, or ſtopped Her Mouth, or my own Attention to Her Chiding and Reproof; but I have, with much Submiſſion of Mind, born Her Chaſtiſement, and improved it to an Humbling of my ſelf before THEE for my Failings; for I look<g ref="char:EOLhyphen"/>ed upon Her as Acting by THY Authority, for THY Service, and to THY Glory; and I durſt not Diſcourage, Diſcountenance, or Diſobey Her.</p>
+               <p>When She was Pleaſed, and gave me Good Words, I was Glad; for I eſteemed Her as a Glaſs that repreſented to my Soul the Favour or Diſplea<g ref="char:EOLhyphen"/>ſure of GOD Himſelf, and how HE ſtood affected towards me.</p>
+               <pb n="2" facs="tcp:153971:3"/>
+               <p>I have more Trembled under the Fear of a Sear<g ref="char:EOLhyphen"/>ed or Diſcouraged Conſcience, than under the Fear of a Sharp or Scrupulous Conſcience; becauſe I always accounted the Latter, tho' more Trouble<g ref="char:EOLhyphen"/>ſome, yet more Safe.</p>
+               <p>I have been very jealous, either of Wounding, or Grieving, or Diſcouraging, or Deadning my Conſcience. I have therefore choſen rather to forbear that which ſeemed but Indifferent, leſt there ſhould be ſome what in it that might be Un<g ref="char:EOLhyphen"/>lawful; and would rather Gratifie my Conſci<g ref="char:EOLhyphen"/>ence, with being too Scrupulous, than Diſpleaſe, Diſquiet, or Flat It, by being too Venturous: I have ſtill choſen rather to Forbear what might be Probably Lawful, than to Do that which might be Poſſibly Unlawful; becauſe I could not Err in the Former, I might in the Latter.</p>
+               <p>I have been careful to adviſe Impartially with my Conſcience before my Actions; ſo leſt I— had committed any thing Amiſs, either in the Nature or Manner of the Action, I commonly, every Night, brought my Actions of the Day paſt, be<g ref="char:EOLhyphen"/>fore the Judicatory of my Conſcience, and left Her to a Free and Impartial Cenſure of them; and what She Sentenced Well Done, I with Humility returned the Praiſe thereof to THY Name; what She Sentenced Done Amiſs, I did humbly ſue unto THEE for Pardon, and for Grace to prevent me from the like Miſcarriages. By this means I kept my Conſcience Active, Renewed, and preſerved my Peace with THEE, and learned Vigilance and Caution for the Time to come.</p>
+            </div>
+            <div n="creatures" type="part">
+               <head>Touching THY Creatures.</head>
+               <p>I have not only looked upon THY Bleſſings and
+<pb n="3" facs="tcp:153971:3"/>Bounty, in Lending me THY own Creatures for my Uſe; but I have ſought unto THEE for a Bleſ<g ref="char:EOLhyphen"/>ſing upon them, in my Uſe of them. I did very well obſerve, That there is by my Sin a Curſe in the very Creatures that I receive, unleſs THY Bleſſing fetch it out; an Emptineſs in them, unleſs THY Goodneſs fill them: Tho' THOU ſhouldeſt give me Quails and Manna from Heaven, yet with<g ref="char:EOLhyphen"/>out THY Bleſſing upon them, they would become Rottenneſs and Putrifaction to me; and therefore I ever begg'd THY Bleſſing upon THY Bleſſings, as well as the Bleſſings themſelves; and attributed the Good I Found, or was to Expect in them, to the Same HAND that Gave them.</p>
+               <p>I received and uſed THY Creatures, as com<g ref="char:EOLhyphen"/>mitted to me under a Truſt, and as a Steward and Accomptant for them; and therefore I was always careful to uſe them according to thoſe Limits, and in order for thoſe Ends, for which THOU didſt commit them to me: 1ſt. With Temperance and Moderation; I did not uſe THY Creatures to Luxury and Exceſs, to make Proviſion for my Luſts, with Vain Glory or Oſtentation, but for the convenient Support of the Exigencies of my Nature and Condition; and if at any time THY Goodneſs did indulge me an Uſe of them for De<g ref="char:EOLhyphen"/>light, as well as Neceſſity, I did it but Rarely and Watchfully; I looked not upon the <hi>Wine,</hi> when it gave its colour in the Cup; nor gave my ſelf over either to Exceſs or Curioſity in <hi>Meats</hi> or <hi>Drinks;</hi> I checked my Self therein, as being in THY Pre<g ref="char:EOLhyphen"/>ſence, and ſtill remembred I had THY Creatures under an Accompt; and was ever careful to avoid Exceſs or Intemperance, becauſe every Exceſſive
+<pb n="4" facs="tcp:153971:4"/>Cup and Meal was in danger to leave me ſomewhat in <hi>Super</hi> and Arear to my <hi>LORD.</hi> 2dly. With Mer<g ref="char:EOLhyphen"/>cy and Compaſſion to the Creatures themſelves, which THOU haſt put under my Power and Diſ<g ref="char:EOLhyphen"/>poſal. When I conſidered the Admirable Powers of Life and Senſe which I ſaw in the Birds and Beaſts, and that all the Men in the World could not give the like Being to any thing, nor Reſtore that Life and Senſe which is once Taken from them; When I conſidered how Innocently and Harmleſly the Fowls, and Fiſh, and Sheep, and Ox<g ref="char:EOLhyphen"/>en take their Food, that THOU, the <hi>LORD</hi> of All, haſt given them, I have been apt to think that ſure<g ref="char:EOLhyphen"/>ly THOU didſt intend a more Innocent kind of Food to Man, than ſuch as muſt be taken with ſuch Detriment to thoſe Living parts of <hi>THY</hi> Creation; and although <hi>THY</hi> wonderful Goodneſs hath ſo much Indulged to Man-kind, as to give up the Lives of theſe Creatures for the Food of Man by <hi>THY</hi> expreſs Commiſſion, yet I ſtill do, and ever did think, that there was a <hi>Juſtice due</hi> from Man, even <hi>to theſe Senſible Creatures,</hi> that he ſhould take them Sparingly, for Neceſſity, and not for Delight; or if for Delight, yet not for Luxury: I have been apt to think, That if there were any more Liberal uſe of Creatures for Delight or Variety, it ſhould be of Fruits, or ſuch other Delicacies as might be had without the loſs of Life; But however it be, this very Conſideration hath made me very Spa<g ref="char:EOLhyphen"/>ring and Careful, not Vainly, or Superfluouſly, or Unneceſſarily, or Prodigally, to take away the Life of <hi>THY</hi> Creatures for Feaſting and Exceſs. And the very ſame Conſideration hath always gone a long with me, <hi>in reference to the Labour of THY Crea<g ref="char:EOLhyphen"/>tures.</hi>
+                  <pb n="5" facs="tcp:153971:4"/>I have ever thought that there was a cer<g ref="char:EOLhyphen"/>tain degree of Juſtice due from Man to the Crea<g ref="char:EOLhyphen"/>tures, as from Man to Man; and that an exceſſive, immoderate, unſeaſonable Uſe of the Creatures Labour, is an Injuſtice for which he muſt Accompt.</p>
+               <p>To deny Domeſtical Creatures their convenient Food; to exact that Labour from them, that they are not able to perform; to uſe Extremity or Cru<g ref="char:EOLhyphen"/>elty towards them, is a breach of that Truſt, un<g ref="char:EOLhyphen"/>der which the Dominion of the Creatures was committed to us, and a breach of that Juſtice that is due from Men to them; and therfore I have always eſteemed it as part of my Duty, and it hath been always my Practice, to be Merciful to my Beaſts; and upon the ſame Account I have ever eſteemed it a breach of Truſt, and have according<g ref="char:EOLhyphen"/>ly declined any Cruelty to any of <hi>THY</hi> Creatures; and as much as I might, prevented it in others, as a Tyranny, inconſiſtent with the Truſt and Stew<g ref="char:EOLhyphen"/>ardſhip that <hi>THO<g ref="char:V">Ʋ</g>
+                  </hi> haſt commited to me. I have abhorred thoſe Sports that conſiſt in the Torturing of the Creatures; and if either Noxi<g ref="char:EOLhyphen"/>ous Creatures muſt be Deſtroyed, or Creatures for Food muſt be Taken, it hath been my Practice to do it in that manner, that may be with the leaſt Torture or Cruelty to the Creature; and I have ſtill thought it an Unlawful thing to Deſtroy thoſe Creatures for Recreation-ſake, that either were not Hurtful when they Lived, or are not Profi<g ref="char:EOLhyphen"/>table when they are Killed; ever remembering that tho' <hi>THO<g ref="char:V">Ʋ</g>
+                  </hi> haſt given us a Dominion over <hi>THY</hi> Creatures; yet it is under a Law of Juſtice, Pru<g ref="char:EOLhyphen"/>dence, and Moderation; otherwiſe we ſhould be<g ref="char:EOLhyphen"/>come Tyrants, not Lords, over <hi>THY</hi> Creatures;
+<pb n="6" facs="tcp:153971:5"/>and therefore thoſe things of this nature, that others have practiſed as Recreations, I have avoid<g ref="char:EOLhyphen"/>ed as Sins.</p>
+            </div>
+            <div n="wealth" type="part">
+               <head>Concerning my Wealth.</head>
+               <p>The more I had, the more was my Care, and the greater the Charge that I had under my Hands, and the more was my Solicitude to be a Faithful Stew<g ref="char:EOLhyphen"/>ard of it, to the Honour and Uſe of my MASTER; but my part was the leaſt that was in it: Indeed I re<g ref="char:EOLhyphen"/>joyced in this, that my MASTER eſteemed me Wiſe and Faithful, committing the Diſpenſation thereof to my Truſt; but I thought it no more mine, than the Lords Baily, or the Merchants Caſh-keeper, thinks his Maſters Rents or Money his.</p>
+               <p>And therefore thought it would be a breach of my Truſt to Conſume or Embezil that Wealth in Exceſſive Superfluities of <hi>Meat, Drink</hi> or <hi>Apparel,</hi> rel, or in Advancing my Self, or my Poſterity, to a maſſy or huge Acqueſt.</p>
+            </div>
+            <div n="reputation" type="part">
+               <head>Touching my Reputation.</head>
+               <p>Tho' I have loved my Reputation, and have been vigilant not to loſe or impair it by my own Default or Neglect, yet I have looked upon it as a brittle thing, a thing that the Devil aims to hit in a ſpe<g ref="char:EOLhyphen"/>cial manner, a thing that is much in the Power of a Falſe Report, a Miſtake, a Miſ-apprehenſion, to wound and hurt: Notwithſtanding all my Care, I am at the Mercy of Others, without GOD's won<g ref="char:EOLhyphen"/>derful over-ruling Providence. And as my Re<g ref="char:EOLhyphen"/>putation is the Eſteem that Others have of me, ſo that Eſteem may be Blemiſhed without my De<g ref="char:EOLhyphen"/>fault. I have therefore always taken this care, not to ſet my Heart upon my Reputation. I will
+<pb n="7" facs="tcp:153971:5"/>uſe all Fidelity and Honeſty, and take care it ſhall not be loſt by any Default of mine; and if not<g ref="char:EOLhyphen"/>withſtanding all this, my Reputation be ſoiled by Evil or Envious Men or Angels, I will patiently bear it, and content my Self with the Serenity of my own Conſcience: <hi>Hic murus ahenius eſto,</hi> (This ſhall be as a Wall of Defence to me.)</p>
+            </div>
+            <div n="contemplations" type="poem">
+               <head>The aforeſaid Author on Changes and Troubles. <hi>CONTEMPLATIONS. p. 380.</hi>
+               </head>
+               <lg>
+                  <l>PEACE, Way-ward Soul; Let not thoſe various Storms,</l>
+                  <l>Which hourly fill the World with freſh Alarms,</l>
+                  <l>Invade thy Peace; nor diſcompoſe that Reſt,</l>
+                  <l>Which thou mayſt keep Untouch'd within thy Breſt,</l>
+                  <l>Amidſt thoſe Whirl-winds, if thou keep but free</l>
+                  <l>Thy Intercourſe betwixt thy GOD and thee:</l>
+               </lg>
+               <lg>
+                  <l>This Region lies above theſe Storms; and know,</l>
+                  <l>Thy Thoughts are Earthly, and they creep too low,</l>
+                  <l>If theſe can reach thee, or acceſs can find,</l>
+                  <l>To Bring, or Raiſe, like Tempeſts in thy Mind.</l>
+               </lg>
+               <lg>
+                  <l>But yet in theſe Diſorders ſomething lies,</l>
+                  <l>That's worth thy Notice, out of which the Wiſe</l>
+                  <l>May trace and find that Juſt and Powerful HAND,</l>
+                  <l>That Secretly, but Surely, doth Command;</l>
+                  <l>And manage theſe Diſtempers with that Skill;</l>
+                  <l>That while they ſeem to Croſs they Act HIS Will.</l>
+               </lg>
+               <lg>
+                  <l>Obſerve that Silver Thread, that ſteers and bends</l>
+                  <l>The worſt of all Diſorders to ſuch Ends,</l>
+                  <l>That ſpeak HIS Juſtice, Goodneſs, Providence,</l>
+                  <l>Who cloſely guides it by HIS Influence.</l>
+               </lg>
+               <lg>
+                  <l>And tho' theſe Storms are Loud, yet Liſten well,</l>
+                  <l>There is Another Meſſage that they tell:</l>
+                  <pb n="8" facs="tcp:153971:6"/>
+                  <l>This World is not thy Country, 'tis thy Way;</l>
+                  <l>Too much Contentment might invite thy ſtay</l>
+                  <l>Too long upon thy Journey; make it ſtrange</l>
+                  <l>Unwelcome News, to think upon a Change:</l>
+               </lg>
+               <lg>
+                  <l>Whereas this Rugged Entertainment, ſend</l>
+                  <l>Thy Thoughts before thee to thy Journey's End;</l>
+                  <l>Chides thy Deſires homeward; tells thee plain,</l>
+                  <l>To think of Reſting here, it is but Vain:</l>
+               </lg>
+               <lg>
+                  <l>Makes thee to ſet an Equal Eſtimate</l>
+                  <l>On this Uncertain World; and a Juſt Rate</l>
+                  <l>On that to Come: It bids thee Wait and Stay,</l>
+                  <l>Until thy MASTER Calls; And then with Joy</l>
+                  <l>To entertain it: Such a Change as this,</l>
+                  <l>Renders thy Loſs, thy Gain; Improves thy Bliſs.</l>
+               </lg>
+            </div>
+            <div n="solitude" type="poem">
+               <head>On Solitude. <hi>p. 121.</hi>
+               </head>
+               <lg>
+                  <l>LET him that will, Aſcend the Tottering Seat</l>
+                  <l>Of Courtly Grandeur, and become as Great</l>
+                  <l>As are his Mounting Wiſhes: As for me,</l>
+                  <l>Let ſweet Repoſe and Reſt, my Portion be.</l>
+               </lg>
+               <lg>
+                  <l>Give me ſome mean obſcure Receſs; a Sphere</l>
+                  <l>Out of the Road of Bus'neſs, or the Fear</l>
+                  <l>Of Falling Lower; where I ſweetly may</l>
+                  <l>My Self, and dear Retirement, ſtill Enjoy.</l>
+               </lg>
+               <lg>
+                  <l>Let not my Life, or Name, be known unto</l>
+                  <l>The Grandees of the Times; Toſs'd to and fro,</l>
+                  <l>By Cenſures or Applauſe: But let my Age</l>
+                  <l>Slide gently By, not Over-thwart the Stage</l>
+                  <l>Of Publick Action; Unheard, Unſeen,</l>
+                  <l>And Unconcern'd, as if I ne'er had been.</l>
+               </lg>
+               <lg>
+                  <l>And thus, whilſt I ſhall paſs my Silent Days</l>
+                  <l>In Shady Privacy, free from the Noiſe</l>
+                  <l>And Buſtles of the World: Then, then ſhall I</l>
+                  <l>A Good, Old, Innocent Plebeian, dye.</l>
+               </lg>
+            </div>
+            <div n="Holy Spirit" type="sayings">
+               <pb facs="tcp:153971:6"/>
+               <head>Judge <hi>Hale</hi>'s Experience of the Inward and Inviſible Guidance of the Spirit of GOD.</head>
+               <p>THOSE that truly fear GOD, have a <hi>Secret Guid<g ref="char:EOLhyphen"/>ance</hi> from a higher Wiſdom than what is barely Humane; namely, <hi>The Spirit of Truth and Wiſdom,</hi> that doth Really and Truly, but <hi>Secretly,</hi> Prevent and Di<g ref="char:EOLhyphen"/>rect them.</p>
+               <p>ANY Man that Sincerely and Truly Fears Al<g ref="char:EOLhyphen"/>mighty GOD, relies upon HIM, and calls upon HIM for HIS Guidance and Direction, hath it as Really as a <hi>Son</hi> hath the Counſel and Direction of his <hi>Father.</hi> And tho' the Voice be not Audible, nor the Directi<g ref="char:EOLhyphen"/>on always Perceptable <hi>(or Diſcernable)</hi> to Senſe; yet it is equally as Real as if a Man heard the Voice ſay<g ref="char:EOLhyphen"/>ing, <hi>This is the Way, walk in it.</hi> And let no Man think that this is a piece of Fanaticiſm, <hi>(or Enthuſiaſm.)</hi>
+               </p>
+               <p>AND this ſecret Direction of Almighty GOD, is Principally ſeen in matters relating to the Good of the Soul; yet it may alſo be found in the Concerns of this Life, which a good Man, that fears GOD, and begs HIS Direction, ſhall very often, if not at all times find. <hi>P.</hi> 45.</p>
+               <p>I can call my <hi>own Experience</hi> to witneſs, That even in the External Actions of my whole Life, I was ne<g ref="char:EOLhyphen"/>ver diſappointed of the beſt Guidance and Directi<g ref="char:EOLhyphen"/>on, when I have, in Humility and Sincerity, implo<g ref="char:EOLhyphen"/>red the Secret Direction, and Guidance, of the Di<g ref="char:EOLhyphen"/>vine Wiſdom. <hi>P.</hi> 323.</p>
+               <trailer>[Theſe are Faithful, Weighty and True Sayings.]</trailer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:153971:7" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
